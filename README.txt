@@ -7,7 +7,7 @@ In order to repeat the tests used in the study MySQL 5.1.41, MariaDB 10.5.6 and 
 
 After the databases have been installed, just run the main program.
 
-The main program includes the same test settings used in the stury.
+The main program includes the same test settings used in the study.
 
 The content of the data files city_of_houston.csv, firstnames.csv, surnames.csv have been shortened to fit into GitHub.
 
