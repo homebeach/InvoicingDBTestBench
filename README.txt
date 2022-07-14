@@ -3,7 +3,7 @@ Invoicing Database Test Bench
 
 This program is used to generate test data into invoicing database and executing query tests.
 
-In order to repeat the tests used in the study MySQL 5.1.41, MariaDB 10.5.6 and Neo4J 4.1.3 need to be installed first. Configure port 3307 for MariaDB 5.1.41.
+In order to repeat the tests used in the study MySQL 5.1.41, MySQL 8.0.29, MariaDB 10.8.3 and Neo4J 4.4.8 need to be installed first. Configure different ports for different MySQL versions and MariaDB if they are installed simultaneously.
 
 After the databases have been installed, just run the main program.
 
